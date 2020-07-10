@@ -1,8 +1,9 @@
 # Site settings
+headertitle: Megan for MWDOC
 title: Megan Yoo Schneider for MWDOC
 email: your-email@domain.com
 baseurl: "/m4m" # the subpath of your site, e.g. /blog
-url: "https://dropbar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 description: "Elect Megan"
 keywords: "your keywords, separated by commas"
 skills: "Passion - Transparency - Responsibility"
