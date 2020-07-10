@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
+title: Megan Yoo Schneider for MWDOC
 email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+url: https://github.io/dropbar/m4m
+description: "Elect Megan"
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Passion - Transparency - Responsibility"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -32,23 +32,21 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Megan for MWDOC
+  location: Orange County, CA
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/vote4yoo
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/meganyooschneider/
+  - title: instagram
+    url: https://www.instagram.com/megyooschneider/
+  - title: linkedin
+    url: https://www.linkedin.com/in/meganyoo/
 
 # Postal address (add as many lines as necessary)
 address:
@@ -56,7 +54,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'vote for Yoo!'
 
 # Build settings
 markdown: kramdown
