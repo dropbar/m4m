@@ -36,8 +36,8 @@ color:
 footer:
   copyright: Megan for MWDOC
   location: Orange County, CA
-  social: Around the Web
-  credits: Credits
+  social: Social
+  #credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -51,12 +51,12 @@ social:
     url: https://www.linkedin.com/in/meganyoo/
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+#address:
+# - line: 3481 Melrose Place
+ # - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'vote for Yoo!'
+#credits: 'vote for Yoo!'
 
 # Build settings
 markdown: kramdown
