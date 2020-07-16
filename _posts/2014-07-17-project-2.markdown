@@ -8,4 +8,5 @@ project-date: April 2014
 client: Start Bootstrap
 category: Community
 description: unordered community acheivements
+title: Community
 ---
