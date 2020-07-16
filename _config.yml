@@ -1,6 +1,7 @@
 # Site settings
 headertitle: Megan for MWDOC
-title: Schneider for Metropolitan Water District of Orange County
+title: Megan Yoo Schneider 
+subtitle: Municipal Water District of Orange County
 email: your-email@domain.com
 baseurl: "/m4m" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -35,7 +36,7 @@ color:
 # Footer settings
 footer:
   copyright: Megan for MWDOC
-  location: MWDOC Division 7
+  location: Municipal Water District of Orange County, Division 7
   social: Social
   #credits: Credits
 
