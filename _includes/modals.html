@@ -17,10 +17,11 @@
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             {% if post.description %}
                                 <p>{{ post.description }}</p>
+								{{ post.content }}
                             {% endif %}
                             <ul class="list-inline item-details">
                                 {% if post.client %}
-                                    <li>Client:
+                                    <li>
                                         <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
                                         </strong>
                                     </li>
@@ -31,12 +32,7 @@
                                         </strong>
                                     </li>
                                 {% endif %}
-                                {% if post.category %}
-                                    <li>Service:
-                                        <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
-                                        </strong>
-                                    </li>
-                                {% endif %}
+                                
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>

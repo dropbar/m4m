@@ -2,11 +2,34 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: carrots2.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+client: Contribute
 category: Community
-description: unordered community acheivements
+description: Community Involvement
 title: Community
 ---
+* Advisory board member for Breakthrough San Juan Capistrano, a program that strives to break the cycle of poverty through the power of education
+
+* Ministry volunteer leader for the Saddleback Church PEACE Initiative for Vulnerable Children
+
+* Master Teacher Training Program graduate and Spiritual Maturity CLASS Teacher at Saddleback Church
+
+* Trust Based Relational Intervention Practitioner (On-line coursework completed, awaiting in-person training)
+
+* Member of the Teen Court Collaborative Steering Committee, a partnership with the Orange County Social Services 
+Administration to support teenage foster youth in the county
+
+* Voting member on the National Science Foundation (NSF) Joint Committees on Drinking Water Additives (System Components and Treatment Chemicals)
+
+* Chair of the Water Environment Federation (WEF) Public Communications and Outreach Committee
+
+* Serves on the WEF Workforce Diversity and Inclusion Task Force
+
+* Vice President of the California Water Environment Association(CWEA)Board of Directors
+
+* Past President of the Santa Ana River Basin Section of CWEA
+
+* Organizes the ad hoc Women in Water group in Orange County, which has also inspired the creation of additional groups in the Inland Empire and in San Diego County.
+
+* Regular presenter and invited speaker for various professional association conferences and workshops

@@ -1,8 +1,0 @@
----
-layout: default
-img: circus.png
-alt: image-alt
-client: Start Bootstrap
-category: Web Development
-description: Megan Yoo Schneider is a native Californianwhogrew up in Orange Countywithan enthusiastic life-long passion for water, effective water policy,and public health.She has devoted her lifeand countless volunteer hoursto the future of water and the community.Megan hasmore than16 years of professional and association experience, including serving on four boards of directors, and possesses a B.S. in Chemical Engineering with a Specialization in Environmental Engineering and an M.S. in Engineering with a Concentration in EnvironmentalEngineering. She is also aCalifornia-licensed professional civil engineer.Megan is adedicated memberand leader within a number of organizations, including the Water Environment Federation, American Water Works Association, andCalifornia Water Environment Association.Shehasreceived numerous awards and accolades for her public outreacheffortsand water-related research and is devoted to ensuring the future of local, reliable water supplies for Orange County.Megan’s priorities at MWDOC include ensuring long term availability of sustainable, safe, and affordable water for our community.Megan is a passionate, knowledgeable, and dedicatedpublic servantwho will truly serve her community’s residents, business owners, non-profit organizations, and public officialsas the MWDOC Division 7 Director.
----
