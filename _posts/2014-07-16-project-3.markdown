@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-img: carrots2.jpg
+img: water2.jpg
 alt: image-alt
 client: Contribute
 category: Water
