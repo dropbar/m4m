@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 description: "Elect Megan"
 keywords: "your keywords, separated by commas"
-skills: "Community - Water Evironment - Public Health"
+skills: "Community - Water Environment - Public Health"
 meta_author: LastName FirstName
 
 # Google webmaster tools
