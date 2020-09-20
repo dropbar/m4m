@@ -1,5 +1,4 @@
 ---
-title: About Megan
 layout: default
 modal-id: 1
 img: nosleeves.jpg
