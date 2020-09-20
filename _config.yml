@@ -10,6 +10,9 @@ keywords: "Megan Yoo, Megan Schneider,  Megan Yoo Schneider, water,  municipal, 
 skills: "Community - Water Environment - Public Health"
 meta_author: LastName FirstName
 
+plugins:
+  - jekyll-seo-tag
+
 # Google webmaster tools
 google_verify:
 
