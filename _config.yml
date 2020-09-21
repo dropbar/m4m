@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
 
 # Google webmaster tools
-google_verify:
+google_verify: 81r0NBtg1kQC3MYGv9hNLHbPy3pS0CVAqFfpZenX7YQ
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
