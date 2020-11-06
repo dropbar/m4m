@@ -2,7 +2,7 @@
 headertitle: Megan for MWDOC
 title: Megan Yoo Schneider for MWDOC
 title1: Megan Yoo Schneider 
-subtitle: FOR MUNICIPAL WATER DISTRICT OF ORANGE COUNTY DIVISION 7
+subtitle: MUNICIPAL WATER DISTRICT OF ORANGE COUNTY
 tagline: Megan for MWDOC
 email: 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -44,8 +44,8 @@ color:
 # Footer settings
 footer:
   copyright: megan4mwdoc.com | Paid for by Schneider for Municipal Water District of Orange County Division 7 Director 2020 | Vote 4 Yoo. FPPC ID 1425525. 
-  location: MEGAN YOO SCHNEIDER FOR MUNICIPAL WATER DISTRICT OF ORANGE COUNTY DIVISION 7 DIRECTOR
-  social: Social
+  location: MEGAN YOO SCHNEIDER FOR MUNICIPAL WATER DISTRICT OF ORANGE COUNTY
+  social: 
   credits: 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
